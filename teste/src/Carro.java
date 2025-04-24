@@ -1,3 +1,5 @@
+//Gabriel Barbosa de Souza (10434547), Lucas Osório Baldoino(10434481), Arthur Silva Torres (10434401)
+
 public class Carro extends Veiculo {
     private int numeroDePortas;
     private int quantidadeDeLugares;
